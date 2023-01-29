@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1088px" height="607px" viewBox="0 0 1088 607" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>spotlight-vesiviskiksi</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="spotlight-vesiviskiksi" sketch:type="MSArtboardGroup">
+            <rect id="Rectangle-1" fill="#5D2D01" sketch:type="MSShapeGroup" x="0" y="0" width="1088" height="607"></rect>
+            <g id="vesiviski-copy" sketch:type="MSLayerGroup" transform="translate(208.000000, 36.000000)">
+                <g id="Page-1" sketch:type="MSShapeGroup">
+                    <g id="vesiviski">
+                        <g id="Image">
+                            <g id="Glass" transform="translate(0.000000, 138.000000)" stroke="#FFFFFF" stroke-width="9">
+                                <path d="M21.6278837,321.519033 L21,338.043157 C21,355.692435 82.8044682,370 159.044152,370 C235.283836,370 297.088304,355.692435 297.088304,338.043157 L298,319.248314 L297.959573,319.268648 C296.165158,336.310486 234.861694,350 159.5,350 C87.4860823,350 28.3091253,337.499724 21.6278837,321.519033 L21.6278837,321.519033 L21.6278837,321.519033 Z" id="Oval-1-copy-2" fill="#FFFFFF"></path>
+                                <path d="M319,18.5 C319,8.28273162 247.589422,0 159.5,0 C71.410578,0 0,8.28273162 0,18.5 C0,28.7172684 71.410578,37 159.5,37 C247.589422,37 319,28.7172684 319,18.5 L319,18.5 Z" id="Oval-1"></path>
+                                <path d="M0,19 L21.5,327.5" id="Path-1"></path>
+                                <path d="M319,19 L298,318" id="Path-1-copy"></path>
+                            </g>
+                            <g id="Whisky" transform="translate(23.000000, 340.000000)">
+                                <path d="M136.945312,25.2460937 C182.221354,25.2460937 273.382812,14.0976562 273.382812,14.0976562 L266.185278,112.005307 C266.023092,114.211515 264.350627,116.919067 262.392984,117.944247 C262.392984,117.944247 235.636719,136.765633 136.945312,136.765625 C38.2539062,136.765618 10.4968708,117.79012 10.4968708,117.79012 C8.56560237,116.735976 6.8742222,114.093238 6.71934739,111.89138 L-0.159288883,14.0976562 C-0.159288883,14.0976562 91.2630208,25.2460937 136.945312,25.2460937 L136.945312,25.2460937 Z" id="Path-4" fill="#F1A01B"></path>
+                                <ellipse id="Oval-1" fill="#FBB43F" cx="136.5" cy="14.5" rx="136.5" ry="14.5"></ellipse>
+                            </g>
+                            <path d="M200,75.7684621 C200,54.6537657 157.5,0 157.5,0 C157.5,0 115,54.6537657 115,75.7684621 C115,96.8831585 134.027897,114 157.5,114 C180.972103,114 200,96.8831585 200,75.7684621 L200,75.7684621 Z" id="Drop" stroke-opacity="0.184455423" stroke="#08A0B2" stroke-width="3" fill="#7AE0FF"></path>
+                            <path d="M22.8984375,187.511719 L37.7929688,190.289062 L49.8671875,443.28125 L38.78125,437.902344 L22.8984375,187.511719 L22.8984375,187.511719 Z" id="Highlight" fill-opacity="0.244370404" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

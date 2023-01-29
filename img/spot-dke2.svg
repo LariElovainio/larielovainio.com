@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="450px" height="245px" viewBox="0 0 450 245" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>spot-dke</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="spot-dke" sketch:type="MSArtboardGroup">
+            <rect id="Rectangle-7" stroke="#66527B" stroke-width="14" fill="#ECEBE9" sketch:type="MSShapeGroup" x="-20" y="0" width="500" height="261"></rect>
+            <!--<text id="Effective-strategy-c" sketch:type="MSTextLayer" font-family="Big Caslon" font-size="20" font-weight="420" sketch:alignment="middle" fill="#6D6D6D">
+                <tspan x="96.74" y="164">Effective strategy consultations.</tspan>
+            </text>-->
+            <text id="Dunning-Krüger-Elova" sketch:type="MSTextLayer" font-family="Big Caslon" font-size="36" font-weight="420" sketch:alignment="middle">
+                <tspan x="27" y="130" fill="#4A4A4A">Dunning </tspan>
+                <tspan x="168.372" y="130" fill="#4A4A4A">Krüger</tspan>
+                <tspan x="275.076" y="130" fill="#000000"> </tspan>
+                <tspan x="282.636" y="130" fill="#4A4A4A">Elovainio</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
